@@ -38,3 +38,122 @@
 ---
 *记录生成日期: 2026-03-06*
 *数据来源: GitHub Trending & Ranking*
+# 2026年04月05日 GitHub 高星开源项目推荐
+
+以下是为您搜集并整理的本周 GitHub 热门及高星项目，涵盖了 AI 智能体、安全测试、开发路线图和系统设计等多个前沿领域。
+
+### 本周推荐项目概览
+
+| 排名 | 项目名称 | 星数 (Stars) | 主要语言 | 本周新增星数 |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 19,029 | Python | 14,763 stars this week |
+| 2 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 15,697 | TypeScript | 12,108 stars this week |
+| 3 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 36,136 | Python | 11,141 stars this week |
+| 4 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 20,063 | TypeScript | 9,913 stars this week |
+| 5 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 23,892 | TypeScript | 9,232 stars this week |
+| 6 | [google-research/timesfm](https://github.com/google-research/timesfm) | 14,701 | Python | 4,315 stars this week |
+| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 25,059 | Python | 9,566 stars this week |
+| 8 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 88,487 | Python | 4,512 stars this week |
+| 9 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 24,285 | Python | 4,306 stars this week |
+| 10 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | 4,562 | TypeScript | 2,054 stars this week |
+| 11 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 4,816 | Python | 1,658 stars this week |
+| 12 | [obra/superpowers](https://github.com/obra/superpowers) | 135,225 | Shell | 15,339 stars this week |
+| 13 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 37,252 | N/A | 2,041 stars this week |
+| 14 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 137,995 | JavaScript | 23,827 stars this week |
+| 15 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 79,393 | Python | 4,835 stars this week |
+
+### 项目详细解析
+
+1.  **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)**
+    *   **描述**: 一个视觉化、示例驱动的 Claude Code 指南——从基本概念到高级代理，提供即时价值的复制粘贴模板。
+    *   **语言**: Python
+    *   **星数**: 19,029
+    *   **本周新增星数**: 14,763
+
+2.  **[Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)**
+    *   **描述**: OmX - Oh My codeX: 你的 codex 不再孤单。添加钩子、代理团队、HUD 等更多功能。
+    *   **语言**: TypeScript
+    *   **星数**: 15,697
+    *   **本周新增星数**: 12,108
+
+3.  **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)**
+    *   **描述**: 开源前沿语音 AI。
+    *   **语言**: Python
+    *   **星数**: 36,136
+    *   **本周新增星数**: 11,141
+
+4.  **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)**
+    *   **描述**: 免费创建精美演示。开源、无订阅、无水印，可免费用于商业用途。Screen Studio 的替代品。
+    *   **语言**: TypeScript
+    *   **星数**: 20,063
+    *   **本周新增星数**: 9,913
+
+5.  **[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)**
+    *   **描述**: 团队优先的 Claude Code 多代理编排。
+    *   **语言**: TypeScript
+    *   **星数**: 23,892
+    *   **本周新增星数**: 9,232
+
+6.  **[google-research/timesfm](https://github.com/google-research/timesfm)**
+    *   **描述**: TimesFM (时间序列基础模型) 是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。
+    *   **语言**: Python
+    *   **星数**: 14,701
+    *   **本周新增星数**: 4,315
+
+7.  **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)**
+    *   **描述**: 随你成长的代理。
+    *   **语言**: Python
+    *   **星数**: 25,059
+    *   **本周新增星数**: 9,566
+
+8.  **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)**
+    *   **描述**: 实时换脸和一键视频深度伪造，只需一张图片。
+    *   **语言**: Python
+    *   **星数**: 88,487
+    *   **本周新增星数**: 4,512
+
+9.  **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)**
+    *   **描述**: 开源 AI 平台 - 具有高级功能的 AI 聊天，适用于所有 LLM。
+    *   **语言**: Python
+    *   **星数**: 24,285
+    *   **本周新增星数**: 4,306
+
+10. **[vas3k/TaxHacker](https://github.com/vas3k/TaxHacker)**
+    *   **描述**: 自托管 AI 会计应用程序。用于收据、发票、交易的 LLM 分析器，具有自定义提示和类别。
+    *   **语言**: TypeScript
+    *   **星数**: 4,562
+    *   **本周新增星数**: 2,054
+
+11. **[SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)**
+    *   **描述**: AI 科学家-v2：通过代理树搜索实现工作室级别的自动化科学发现。
+    *   **语言**: Python
+    *   **星数**: 4,816
+    *   **本周新增星数**: 1,658
+
+12. **[obra/superpowers](https://github.com/obra/superpowers)**
+    *   **描述**: 一个代理技能框架和软件开发方法论，行之有效。
+    *   **语言**: Shell
+    *   **星数**: 135,225
+    *   **本周新增星数**: 15,339
+
+13. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)**
+    *   **描述**: 从 ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity 等提取的系统提示。定期更新。
+    *   **语言**: N/A
+    *   **星数**: 37,252
+    *   **本周新增星数**: 2,041
+
+14. **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)**
+    *   **描述**: 代理线束性能优化系统。针对 Claude Code, Codex, Opencode, Cursor 及其他产品的技能、本能、记忆、安全和研究优先开发。
+    *   **语言**: JavaScript
+    *   **星数**: 137,995
+    *   **本周新增星数**: 23,827
+
+15. **[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)**
+    *   **描述**: 通过用户名在社交网络上搜寻社交媒体账户。
+    *   **语言**: Python
+    *   **星数**: 79,393
+    *   **本周新增星数**: 4,835
+
+---
+
+**免责声明**: 本报告内容基于 GitHub Trending 页面公开数据整理，项目星数及描述可能随时间变化。
