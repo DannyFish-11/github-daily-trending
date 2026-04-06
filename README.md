@@ -157,3 +157,64 @@
 ---
 
 **免责声明**: 本报告内容基于 GitHub Trending 页面公开数据整理，项目星数及描述可能随时间变化。
+
+---
+## 📅 2026-04-06 GitHub 每日热门项目精选
+
+以下是为您搜集并整理的今日 GitHub 热门及高星项目，涵盖了 **AI 智能体**、**多模态模型**、**开发工具** 及 **开源课程** 等多个前沿领域。
+
+### 🚀 今日推荐项目概览
+
+| 排名 | 项目名称 | 星数 (Stars) | 主要语言 | 项目简介 |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | [google-ai-edge / gallery](https://github.com/google-ai-edge/gallery) | 17,002+ | Kotlin | 展示端侧 ML/GenAI 用例的画廊，支持本地运行。 |
+| 2 | [Blaizzy / mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3,947+ | Python | 在 Mac 上使用 MLX 进行视觉语言模型 (VLM) 推理与微调。 |
+| 3 | [siddharthvaddem / openscreen](https://github.com/siddharthvaddem/openscreen) | 22,613+ | TypeScript | 开源、无订阅、无水印的录屏演示工具，Screen Studio 的替代品。 |
+| 4 | [block / goose](https://github.com/block/goose) | 37,096+ | Rust | 开源可扩展的 AI 智能体，支持安装、执行、编辑和测试。 |
+| 5 | [onyx-dot-app / onyx](https://github.com/onyx-dot-app/onyx) | 25,067+ | Python | 开源 AI 平台，支持与所有主流 LLM 进行高级 AI 聊天。 |
+| 6 | [badlogic / pi-mono](https://github.com/badlogic/pi-mono) | 31,938+ | TypeScript | AI 智能体工具包，包含 CLI、统一 API 及 Web UI 库。 |
+| 7 | [dmtrKovalenko / fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 3,709+ | Rust | 极速、精准的文件搜索工具，专为 AI 智能体和 Neovim 设计。 |
+| 8 | [google-ai-edge / LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 1,585+ | C++ | Google 推出的端侧大模型轻量化推理库。 |
+| 9 | [telegramdesktop / tdesktop](https://github.com/telegramdesktop/tdesktop) | 31,083+ | C++ | 知名即时通讯软件 Telegram 的桌面端开源代码。 |
+| 10 | [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 441,533+ | TypeScript | 全球最受欢迎的编程学习社区和课程体系。 |
+| 11 | [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 16,656+ | TypeScript | 为你的 Codex 增加钩子、团队协作及 HUD 界面的增强工具。 |
+| 12 | [luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) | 20,460+ | Python | 视觉化、示例驱动的 Claude Code 指南，含即用模板。 |
+| 13 | [microsoft / VibeVoice](https://github.com/microsoft/VibeVoice) | 36,473+ | Python | 微软开源的前沿语音 AI 模型。 |
+| 14 | [google-research / timesfm](https://github.com/google-research/timesfm) | 14,956+ | Python | Google 研究院开发的时间序列预训练基础模型。 |
+| 15 | [NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent) | 26,434+ | Python | 能够随用户共同成长的智能体系统。 |
+
+---
+
+### 🔍 核心项目深度解析
+
+#### 1. [google-ai-edge / gallery](https://github.com/google-ai-edge/gallery)
+*   **核心功能**：该项目是 Google 专门为边缘侧（端侧）AI 应用打造的展示橱窗。它提供了丰富的 GenAI 和 ML 示例，允许开发者在不依赖云端的情况下，直接在 Android、iOS 或 Web 等设备本地体验模型性能。
+*   **技术亮点**：采用了 **Kotlin** 作为主要开发语言，深度集成了 TensorFlow Lite 和 Mediapipe，重点展示了模型量化和端侧推理优化技术。
+*   **应用场景**：适合希望在移动端实现离线 AI 功能（如实时翻译、图像识别、轻量化聊天机器人）的开发者参考。
+
+#### 2. [Blaizzy / mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
+*   **核心功能**：专门针对 Apple Silicon (M1/M2/M3) 芯片优化的视觉语言模型 (VLM) 推理和微调框架。
+*   **技术亮点**：基于 Apple 开源的 **MLX** 框架，实现了极高的内存利用率和计算速度。支持 LLaVA 等主流多模态模型。
+*   **应用场景**：Mac 用户及开发者可以利用此工具在本地高效运行图像描述、视觉问答等任务，无需昂贵的显卡。
+
+#### 3. [siddharthvaddem / openscreen](https://github.com/siddharthvaddem/openscreen)
+*   **核心功能**：作为收费软件 Screen Studio 的开源替代品，它能帮助用户制作具有平滑缩放、精美背景和鼠标跟随效果的高质量演示视频。
+*   **技术亮点**：基于 **TypeScript** 开发，完全免费且无水印，支持商业用途，操作界面简洁直观。
+*   **应用场景**：产品经理、开发者制作产品 Demo 或教学视频的利器。
+
+#### 4. [block / goose](https://github.com/block/goose)
+*   **核心功能**：由 Block (原 Square) 公司推出的 AI 智能体。与普通的代码补全工具不同，Goose 可以自动执行安装依赖、运行测试、编辑代码等复杂任务。
+*   **技术亮点**：使用 **Rust** 编写，具有极高的性能和安全性。其可扩展架构允许开发者为其定制各种能力的“技能包”。
+*   **应用场景**：全自动化的软件开发辅助，实现从需求到测试的闭环。
+
+#### 5. [onyx-dot-app / onyx](https://github.com/onyx-dot-app/onyx)
+*   **核心功能**：一个企业级的开源 AI 平台，旨在为组织提供私有化的 AI 聊天和知识库管理方案。
+*   **技术亮点**：支持对接 OpenAI、Anthropic、Ollama 等所有主流 LLM 接口，具备强大的权限管理和插件系统。
+*   **应用场景**：企业内部知识库建设、安全可控的 AI 办公助手。
+
+#### 6. [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+*   **核心功能**：不仅仅是一个代码库，它是全球最大的免费编程学习平台。
+*   **技术亮点**：包含从前端、后端到数据科学、机器学习的完整课程体系，所有代码和挑战均开源。
+*   **应用场景**：初学者零基础自学编程，或资深开发者查漏补缺。
+
+---
