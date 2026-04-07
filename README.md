@@ -218,3 +218,62 @@
 *   **应用场景**：初学者零基础自学编程，或资深开发者查漏补缺。
 
 ---
+
+---
+## 📅 2026-04-07 GitHub 今日热门项目精选
+
+> 自动收集今日 GitHub Trending 榜单前 15 名高星开源项目，涵盖 AI、开发工具、系统架构等多个领域。
+
+### 📊 今日项目概览
+
+| 排名 | 项目名称 | 主要语言 | 今日新增星数 | 总星数 | 核心功能简介 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | [GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 857 | 23.5k | 零服务器代码智能引擎，浏览器内生成知识图谱 |
+| 2 | [gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 1,107 | 17.9k | Google AI Edge 示例库，展示设备端 ML/GenAI 应用 |
+| 3 | [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 483 | 2.0k | 在移动设备上运行大语言模型的轻量级库 |
+| 4 | [immich](https://github.com/immich-app/immich) | TypeScript | 152 | 96.8k | 高性能自托管照片与视频管理解决方案 |
+| 5 | [shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | 733 | 36.5k | 自主白盒 AI 渗透测试工具，识别 Web 应用漏洞 |
+| 6 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,574 | 28.2k | Nous Research 开发的具备自我成长能力的 AI 智能体 |
+| 7 | [qmd](https://github.com/tobi/qmd) | TypeScript | 394 | 18.7k | 本地文档与知识库的轻量级命令行搜索引擎 |
+| 8 | [Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | Swift | 25 | 8.3k | Telegram iOS 官方客户端源码 |
+| 9 | [obsidian-skills](https://github.com/kepano/obsidian-skills) | N/A | 429 | 20.6k | 为 Obsidian 打造的智能体技能库 |
+| 10 | [ollama](https://github.com/ollama/ollama) | Go | 196 | 167.7k | 本地运行大语言模型的最简便工具 |
+| 11 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | 267 | 102.0k | C/C++ 实现的高性能 LLM 推理库 |
+| 12 | [openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 1,838 | 24.0k | 免费开源的演示视频制作工具，Screen Studio 替代品 |
+| 13 | [personaplex](https://github.com/NVIDIA/personaplex) | Python | 295 | 7.3k | NVIDIA 开发的人格化 AI 框架代码 |
+| 14 | [goose](https://github.com/block/goose) | Rust | 560 | 4.2k | Block 开发的可扩展 AI 软件工程助手 |
+| 15 | [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | Python | 310 | 15.4k | 手机端可运行的 GPT-4V 级别多模态大模型 |
+
+---
+
+### 🔍 深度解析
+
+#### 1. [abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- **技术栈**: TypeScript
+- **解析**: GitNexus 是一款创新的“零服务器”代码智能引擎。它完全在浏览器中运行，通过分析 GitHub 仓库或本地 ZIP 文件，构建交互式的代码知识图谱。内置的 Graph RAG Agent 允许开发者通过对话方式探索复杂的代码库，极大提升了理解新项目的效率。
+
+#### 2. [google-ai-edge / gallery](https://github.com/google-ai-edge/gallery)
+- **技术栈**: Kotlin
+- **解析**: 这是 Google 官方推出的 AI Edge 示例集合，旨在展示如何在移动端高效部署机器学习和生成式 AI 模型。对于想要在 Android 应用中集成本地 AI 功能的开发者来说，这是一个极佳的参考资源。
+
+#### 3. [google-ai-edge / LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
+- **技术栈**: C++
+- **解析**: LiteRT-LM（原 TensorFlow Lite）专门针对大语言模型在边缘设备的推理进行了优化。它提供了一套 C++ API，使开发者能够在资源受限的设备上实现低延迟、高效率的文本生成功能。
+
+#### 4. [immich-app / immich](https://github.com/immich-app/immich)
+- **技术栈**: TypeScript
+- **解析**: Immich 是目前最受欢迎的自托管照片管理系统之一，被视为 Google Photos 的开源替代品。它支持多用户、自动备份、人脸识别和地理位置搜索，且具有极高的响应速度。
+
+#### 5. [KeygraphHQ / shannon](https://github.com/KeygraphHQ/shannon)
+- **技术栈**: TypeScript
+- **解析**: Shannon 是一款面向 Web 应用和 API 的自主 AI 渗透测试工具。它不仅能静态分析源码，还能动态识别攻击向量并执行真实漏洞利用，帮助开发团队在代码上线前发现并修复安全隐患。
+
+#### 12. [siddharthvaddem / openscreen](https://github.com/siddharthvaddem/openscreen)
+- **技术栈**: TypeScript
+- **解析**: Openscreen 是一款旨在帮助开发者创建精美产品演示的工具。它提供了类似 Screen Studio 的平滑缩放和光标追踪效果，但完全免费且开源，非常适合用于制作技术分享或产品宣传视频。
+
+#### 14. [block / goose](https://github.com/block/goose)
+- **技术栈**: Rust
+- **解析**: 由 Jack Dorsey 的 Block 公司推出，Goose 不仅仅是一个聊天机器人，它是一个深度集成到开发环境中的 AI 助手。它可以直接操作文件系统、运行测试和执行复杂的软件工程任务，致力于成为开发者的“副驾驶”。
+
+---
