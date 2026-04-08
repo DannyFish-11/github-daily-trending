@@ -277,3 +277,55 @@
 - **解析**: 由 Jack Dorsey 的 Block 公司推出，Goose 不仅仅是一个聊天机器人，它是一个深度集成到开发环境中的 AI 助手。它可以直接操作文件系统、运行测试和执行复杂的软件工程任务，致力于成为开发者的“副驾驶”。
 
 ---
+
+---
+
+## 📅 2026-04-08 GitHub 今日热门项目精选
+
+> 自动收集今日 GitHub Trending 榜单前 15 名高星开源项目，涵盖 AI、开发工具、系统架构等多个领域。
+
+### 📊 今日项目概览
+
+| 排名 | 项目名称 | 主要语言 | 今日新增星数 | 总星数 | 核心功能简介 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 897 | 18,820 | 展示设备端 ML/GenAI 应用案例的示例库 |
+| 2 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 528 | 2,565 | 在边缘设备上运行大语言模型的轻量级库 |
+| 3 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | 662 | 7,972 | NVIDIA 开发的人格化 AI 框架代码 |
+| 4 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 1,195 | 24,558 | 浏览器内运行的零服务器代码智能引擎 |
+| 5 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | 859 | 19,577 | 本地文档与知识库的轻量级命令行搜索引擎 |
+| 6 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Python | 636 | 10,062 | 一键生成 Reddit 风格视频的自动化工具 |
+| 7 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 168 | 12,249 | 智能体原生（Agent-Native）的个性化学习助手 |
+| 8 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | 215 | 3,920 | 专门用于撰写 SEO 优化长文的 Claude Code 工作区 |
+| 9 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 14,101 (周) | 18,292 | 增强型代码智能助手，支持插件、智能体团队和 HUD |
+| 10 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 15,921 (周) | 25,225 | 免费开源的演示视频制作工具，Screen Studio 替代品 |
+| 11 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 4,137 (周) | 15,434 | Google Research 开发的时间序列预训练基础模型 |
+| 12 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 10,745 (周) | 22,433 | Claude Code 视觉化示例驱动指南 |
+| 13 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 10,487 (周) | 32,081 | 具备自我成长能力的智能体系统 |
+| 14 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 5,025 (周) | 37,334 | 微软开源的前沿语音 AI 模型 |
+| 15 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 5,449 (周) | 25,842 | 支持多种 LLM 的企业级开源 AI 平台 |
+
+---
+
+### 🔍 深度解析
+
+#### 1. [google-ai-edge / gallery](https://github.com/google-ai-edge/gallery)
+- **技术栈**: Kotlin
+- **解析**: 这是 Google 官方推出的 AI Edge 示例集合，旨在展示如何在移动端高效部署机器学习和生成式 AI 模型。它允许开发者在 Android 等设备上本地体验模型性能，是端侧 AI 开发的极佳参考。
+
+#### 4. [abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+- **技术栈**: TypeScript
+- **解析**: GitNexus 是一款创新的“零服务器”代码智能引擎。它完全在浏览器中运行，通过分析 GitHub 仓库或本地文件构建代码知识图谱。内置的 Graph RAG Agent 允许开发者通过对话方式探索复杂的代码库。
+
+#### 9. [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+- **技术栈**: TypeScript
+- **解析**: 作为一个高度可扩展的代码助手框架，Oh My codeX 允许开发者为自己的代码库添加钩子、智能体团队和实时状态显示（HUD）。它极大地增强了开发者的生产力，使代码理解和生成更加智能化。
+
+#### 11. [google-research / timesfm](https://github.com/google-research/timesfm)
+- **技术栈**: Python
+- **解析**: TimesFM 是 Google Research 开发的时间序列基础模型。它在海量时间序列数据上进行了预训练，能够直接用于各种预测任务，无需针对特定领域进行大量微调，展示了基础模型在时序分析领域的巨大潜力。
+
+#### 14. [microsoft / VibeVoice](https://github.com/microsoft/VibeVoice)
+- **技术栈**: Python
+- **解析**: 微软开源的 VibeVoice 代表了语音 AI 的前沿水平。它不仅能够生成极具表现力和情感的语音，还支持多种复杂的语音交互场景，为开源社区提供了高质量的语音合成与处理工具。
+
+---
