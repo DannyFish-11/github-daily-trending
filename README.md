@@ -372,3 +372,122 @@ Google 连续有两个项目上榜：**google-ai-edge / gallery** 和 **LiteRT-L
 *数据来源: GitHub Trending & Community Ranking*
 
 ---
+# GitHub 今日热门开源项目报告 - 2026年04月10日
+
+以下是 2026年04月10日 GitHub 上最热门的 15 个高星开源项目，涵盖了从人工智能到开发工具等多个领域。
+
+
+---
+
+## 2026年04月10日 GitHub 热门项目
+
+| 排名 | 项目名称 | 描述 | 语言 | 总星数 | 今日新增星数 |
+|---|---|---|---|---|---|
+| 1 | [siddharthvaddem / openscreen](https://github.com/siddharthvaddem / openscreen) | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. | TypeScript | 27,638 | 10,077 |
+| 2 | [NousResearch / hermes-agent](https://github.com/NousResearch / hermes-agent) | The agent that grows with you | Python | 52,336 | 7,671 |
+| 3 | [google-ai-edge / gallery](https://github.com/google-ai-edge / gallery) | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. | Kotlin | 20,228 | 4,409 |
+| 4 | [onyx-dot-app / onyx](https://github.com/onyx-dot-app / onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | Python | 26,429 | 3,804 |
+| 5 | [microsoft / markitdown](https://github.com/microsoft / markitdown) | Python tool for converting files and office documents to Markdown. | Python | 99,815 | 2,352 |
+| 6 | [obra / superpowers](https://github.com/obra / superpowers) | An agentic skills framework & software development methodology that works. | Shell | 145,822 | 2,150 |
+| 7 | [multica-ai / multica](https://github.com/multica-ai / multica) | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. | TypeScript | 6,160 | 1,506 |
+| 8 | [forrestchang / andrej-karpathy-skills](https://github.com/forrestchang / andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. | Markdown | 11,797 | 1,450 |
+| 9 | [HKUDS / DeepTutor](https://github.com/HKUDS / DeepTutor) | DeepTutor: Agent-Native Personalized Learning Assistant | Python | 16,013 | 1,424 |
+| 10 | [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project / opendataloader-pdf) | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. | Java | 14,830 | 1,306 |
+| 11 | [shanraisshan / claude-code-best-practice](https://github.com/shanraisshan / claude-code-best-practice) | practice made claude perfect | HTML | 35,840 | 1,251 |
+| 12 | [coleam00 / Archon](https://github.com/coleam00 / Archon) | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. | TypeScript | 15,675 | 756 |
+| 13 | [shiyu-coder / Kronos](https://github.com/shiyu-coder / Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | Python | 12,733 | 601 |
+| 14 | [rowboatlabs / rowboat](https://github.com/rowboatlabs / rowboat) | Open-source AI coworker, with memory | TypeScript | 11,754 | 507 |
+| 15 | [jqlang / jq](https://github.com/jqlang / jq) | Command-line JSON processor | C | 34,309 | 75 |
+
+## 项目详细解析
+
+### 1. [siddharthvaddem / openscreen](https://github.com/siddharthvaddem / openscreen)
+- **描述**: Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- **主要语言**: TypeScript
+- **总星数**: 27,638
+- **今日新增星数**: 10,077
+
+### 2. [NousResearch / hermes-agent](https://github.com/NousResearch / hermes-agent)
+- **描述**: The agent that grows with you
+- **主要语言**: Python
+- **总星数**: 52,336
+- **今日新增星数**: 7,671
+
+### 3. [google-ai-edge / gallery](https://github.com/google-ai-edge / gallery)
+- **描述**: A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- **主要语言**: Kotlin
+- **总星数**: 20,228
+- **今日新增星数**: 4,409
+
+### 4. [onyx-dot-app / onyx](https://github.com/onyx-dot-app / onyx)
+- **描述**: Open Source AI Platform - AI Chat with advanced features that works with every LLM
+- **主要语言**: Python
+- **总星数**: 26,429
+- **今日新增星数**: 3,804
+
+### 5. [microsoft / markitdown](https://github.com/microsoft / markitdown)
+- **描述**: Python tool for converting files and office documents to Markdown.
+- **主要语言**: Python
+- **总星数**: 99,815
+- **今日新增星数**: 2,352
+
+### 6. [obra / superpowers](https://github.com/obra / superpowers)
+- **描述**: An agentic skills framework & software development methodology that works.
+- **主要语言**: Shell
+- **总星数**: 145,822
+- **今日新增星数**: 2,150
+
+### 7. [multica-ai / multica](https://github.com/multica-ai / multica)
+- **描述**: The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- **主要语言**: TypeScript
+- **总星数**: 6,160
+- **今日新增星数**: 1,506
+
+### 8. [forrestchang / andrej-karpathy-skills](https://github.com/forrestchang / andrej-karpathy-skills)
+- **描述**: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- **主要语言**: Markdown
+- **总星数**: 11,797
+- **今日新增星数**: 1,450
+
+### 9. [HKUDS / DeepTutor](https://github.com/HKUDS / DeepTutor)
+- **描述**: DeepTutor: Agent-Native Personalized Learning Assistant
+- **主要语言**: Python
+- **总星数**: 16,013
+- **今日新增星数**: 1,424
+
+### 10. [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project / opendataloader-pdf)
+- **描述**: PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+- **主要语言**: Java
+- **总星数**: 14,830
+- **今日新增星数**: 1,306
+
+### 11. [shanraisshan / claude-code-best-practice](https://github.com/shanraisshan / claude-code-best-practice)
+- **描述**: practice made claude perfect
+- **主要语言**: HTML
+- **总星数**: 35,840
+- **今日新增星数**: 1,251
+
+### 12. [coleam00 / Archon](https://github.com/coleam00 / Archon)
+- **描述**: The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+- **主要语言**: TypeScript
+- **总星数**: 15,675
+- **今日新增星数**: 756
+
+### 13. [shiyu-coder / Kronos](https://github.com/shiyu-coder / Kronos)
+- **描述**: Kronos: A Foundation Model for the Language of Financial Markets
+- **主要语言**: Python
+- **总星数**: 12,733
+- **今日新增星数**: 601
+
+### 14. [rowboatlabs / rowboat](https://github.com/rowboatlabs / rowboat)
+- **描述**: Open-source AI coworker, with memory
+- **主要语言**: TypeScript
+- **总星数**: 11,754
+- **今日新增星数**: 507
+
+### 15. [jqlang / jq](https://github.com/jqlang / jq)
+- **描述**: Command-line JSON processor
+- **主要语言**: C
+- **总星数**: 34,309
+- **今日新增星数**: 75
+
