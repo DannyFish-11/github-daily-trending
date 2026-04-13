@@ -558,3 +558,210 @@ VoxCPM2 采用了无分词器（Tokenizer-Free）的设计，支持多语种语�
 1.  **Agent 框架的爆发**：从 `hermes-agent` 到 `multica`，开发者正从单纯使用 LLM 转向构建具备长期记忆和自主能力的智能体系统。
 2.  **AI 开发基建化**：如 `markitdown` 和 `opendataloader-pdf` 所示，社区正投入大量精力解决“数据入模”的第一公里问题。
 3.  **垂直领域模型兴起**：`Kronos` 作为金融市场的专用模型，预示着通用大模型之后，行业深度定制化将成为下一个增长点。
+
+---
+
+# GitHub 今日热门开源项目 (2026-04-12)
+
+以下是 2026-04-12 GitHub 上最热门的 15 个高星开源项目，数据来源于 GitHub Trending 页面。
+
+| 排名 | 项目名称 | 描述 | 语言 | 总星数 | 今日新增星数 |
+|---|---|---|---|---|---|
+| 1 | [NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 67,538 | 7,454 |
+| 2 | [shiyu-coder / Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | Python | 15,864 | 1,985 |
+| 3 | [forrestchang / andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. | N/A | 17,092 | 2,369 |
+| 4 | [microsoft / markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 104,930 | 2,513 |
+| 5 | [multica-ai / multica](https://github.com/multica-ai/multica) | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. | TypeScript | 9,504 | 1,609 |
+| 6 | [coleam00 / Archon](https://github.com/coleam00/Archon) | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. | TypeScript | 17,101 | 612 |
+| 7 | [shanraisshan / claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | practice made claude perfect | HTML | 39,176 | 1,548 |
+| 8 | [OpenBMB / VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning | Python | 11,381 | 1,278 |
+| 9 | [thedotmack / claude-mem](https://github.com/thedotmack/claude-mem) | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. | TypeScript | 50,222 | 753 |
+| 10 | [ahujasid / blender-mcp](https://github.com/ahujasid/blender-mcp) | Blender MCP server | Python | 19,173 | 215 |
+| 11 | [rustfs / rustfs](https://github.com/rustfs/rustfs) | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | Rust | 25,264 | 182 |
+| 12 | [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | An AI Hedge Fund Team | Python | 52,215 | 663 |
+| 13 | [snarktank / ralph](https://github.com/snarktank/ralph) | Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. | TypeScript | 15,986 | 463 |
+| 14 | [TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 所有小初高、大学PDF教材。 | Roff | 68,317 | 454 |
+| 15 | [GoogleCloudPlatform / generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, including Gemini, Imagen, and more. | Jupyter Notebook | 12,456 | 389 |
+
+## 详细解析
+
+### 1. [NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent)
+
+**描述:** The agent that grows with you
+
+**语言:** Python
+
+**总星数:** 67,538
+
+**今日新增星数:** 7,454
+
+---
+
+### 2. [shiyu-coder / Kronos](https://github.com/shiyu-coder/Kronos)
+
+**描述:** Kronos: A Foundation Model for the Language of Financial Markets
+
+**语言:** Python
+
+**总星数:** 15,864
+
+**今日新增星数:** 1,985
+
+---
+
+### 3. [forrestchang / andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+
+**描述:** A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+
+**语言:** N/A
+
+**总星数:** 17,092
+
+**今日新增星数:** 2,369
+
+---
+
+### 4. [microsoft / markitdown](https://github.com/microsoft/markitdown)
+
+**描述:** Python tool for converting files and office documents to Markdown.
+
+**语言:** Python
+
+**总星数:** 104,930
+
+**今日新增星数:** 2,513
+
+---
+
+### 5. [multica-ai / multica](https://github.com/multica-ai/multica)
+
+**描述:** The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+
+**语言:** TypeScript
+
+**总星数:** 9,504
+
+**今日新增星数:** 1,609
+
+---
+
+### 6. [coleam00 / Archon](https://github.com/coleam00/Archon)
+
+**描述:** The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+
+**语言:** TypeScript
+
+**总星数:** 17,101
+
+**今日新增星数:** 612
+
+---
+
+### 7. [shanraisshan / claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+
+**描述:** practice made claude perfect
+
+**语言:** HTML
+
+**总星数:** 39,176
+
+**今日新增星数:** 1,548
+
+---
+
+### 8. [OpenBMB / VoxCPM](https://github.com/OpenBMB/VoxCPM)
+
+**描述:** VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+
+**语言:** Python
+
+**总星数:** 11,381
+
+**今日新增星数:** 1,278
+
+---
+
+### 9. [thedotmack / claude-mem](https://github.com/thedotmack/claude-mem)
+
+**描述:** A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+
+**语言:** TypeScript
+
+**总星数:** 50,222
+
+**今日新增星数:** 753
+
+---
+
+### 10. [ahujasid / blender-mcp](https://github.com/ahujasid/blender-mcp)
+
+**描述:** Blender MCP server
+
+**语言:** Python
+
+**总星数:** 19,173
+
+**今日新增星数:** 215
+
+---
+
+### 11. [rustfs / rustfs](https://github.com/rustfs/rustfs)
+
+**描述:** 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+
+**语言:** Rust
+
+**总星数:** 25,264
+
+**今日新增星数:** 182
+
+---
+
+### 12. [virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+
+**描述:** An AI Hedge Fund Team
+
+**语言:** Python
+
+**总星数:** 52,215
+
+**今日新增星数:** 663
+
+---
+
+### 13. [snarktank / ralph](https://github.com/snarktank/ralph)
+
+**描述:** Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
+
+**语言:** TypeScript
+
+**总星数:** 15,986
+
+**今日新增星数:** 463
+
+---
+
+### 14. [TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
+**描述:** 所有小初高、大学PDF教材。
+
+**语言:** Roff
+
+**总星数:** 68,317
+
+**今日新增星数:** 454
+
+---
+
+### 15. [GoogleCloudPlatform / generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)
+
+**描述:** Sample code and notebooks for Generative AI on Google Cloud, including Gemini, Imagen, and more.
+
+**语言:** Jupyter Notebook
+
+**总星数:** 12,456
+
+**今日新增星数:** 389
+
+---
+
